@@ -56,7 +56,11 @@ body {
         }
         100%{
             bottom: 105%;
+<<<<<<< HEAD
+            opacity: 6;
+=======
             opacity: 4;
+>>>>>>> 6955ecee6a412c276d4dfc57d27506f2e00a4cdb
         }
     }
     footer {
